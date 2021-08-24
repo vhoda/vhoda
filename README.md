@@ -1,7 +1,10 @@
 <h1 align="center">Hey! I'm vhoda :-)</h1>
 <h3 align="center">im making some things in this page LOL</h3>
 
-![modarchive](https://user-images.githubusercontent.com/37962225/120224079-b5c84b80-c210-11eb-91b0-7c9d0f2ba1cd.gif) ![ieisevil](https://user-images.githubusercontent.com/37962225/120224104-c4aefe00-c210-11eb-880c-c3e55b8db34a.gif)![7zlogo01](https://user-images.githubusercontent.com/37962225/120224164-e5775380-c210-11eb-887c-8f376a31e7c7.png) ![openmpt-button-1](https://user-images.githubusercontent.com/37962225/120224166-e5775380-c210-11eb-901c-81dd324fa775.png)<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vhoda&show_icons=true&locale=en&layout=compact" alt="ziskodiaz" /></p>
+<br>
+
+![modarchive](https://user-images.githubusercontent.com/37962225/120224079-b5c84b80-c210-11eb-91b0-7c9d0f2ba1cd.gif) ![ieisevil](https://user-images.githubusercontent.com/37962225/120224104-c4aefe00-c210-11eb-880c-c3e55b8db34a.gif)<br>![7zlogo01](https://user-images.githubusercontent.com/37962225/120224164-e5775380-c210-11eb-887c-8f376a31e7c7.png) ![openmpt-button-1](https://user-images.githubusercontent.com/37962225/120224166-e5775380-c210-11eb-901c-81dd324fa775.png)<br>
 <!--
 **vhoda/vhoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,7 +1,8 @@
 <h1 align="center"> Hey! I'm vhoda :-)</h1>
 <h4 align="center"> im 20yo, from chile, im making YTPMV's, Currently learning some languages and in the important proyect :-) </h4>
 
-![J6bg](https://user-images.githubusercontent.com/70240006/130848293-f673356a-6672-41d0-bd9c-4dbd338a0c71.gif)
+![J6bg](https://user-images.githubusercontent.com/70240006/130848293-f673356a-6672-41d0-bd9c-4dbd338a0c71.gif) ![7rFB](https://user-images.githubusercontent.com/70240006/130848576-82616195-96b0-4efd-b757-73a76815907c.gif)
+
 
 <br>
 

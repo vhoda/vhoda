@@ -1,8 +1,7 @@
 <h1 align="center"> Hey! I'm vhoda :-)</h1>
 <h4 align="center"> im 20yo, from chile, im making YTPMV's, Currently learning some languages and in the important proyect :-) </h4>
 
-![J6bg](https://user-images.githubusercontent.com/70240006/130848293-f673356a-6672-41d0-bd9c-4dbd338a0c71.gif) ![7rFB](https://user-images.githubusercontent.com/70240006/130848576-82616195-96b0-4efd-b757-73a76815907c.gif)
-
+![UGiZ](https://user-images.githubusercontent.com/70240006/131224712-c14f96f0-4d48-4f35-84a4-967b0d443298.gif)
 
 <br>
 
@@ -12,6 +11,7 @@
 
 ![modarchive](https://user-images.githubusercontent.com/37962225/120224079-b5c84b80-c210-11eb-91b0-7c9d0f2ba1cd.gif) ![ieisevil](https://user-images.githubusercontent.com/37962225/120224104-c4aefe00-c210-11eb-880c-c3e55b8db34a.gif) ![image php](https://user-images.githubusercontent.com/70240006/130697079-c1c57585-e6e5-45b2-9f0e-1ed3bce64cc1.gif)
    ![openmpt-button-1](https://user-images.githubusercontent.com/37962225/120224166-e5775380-c210-11eb-901c-81dd324fa775.png) ![firefoxblend](https://user-images.githubusercontent.com/70240006/131224189-93edcdf5-5466-4afb-a808-3a6c04ddd907.gif)
+
 
 
 <br>

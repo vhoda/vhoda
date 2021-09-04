@@ -1,7 +1,8 @@
 <h1 align="center"> Hey! I'm vhoda :-)</h1>
 <h4 align="center"> im 20yo, from chile, im making YTPMV's, Currently learning some languages and in the important proyect :-) </h4>
 
-![gr290x322_w9x-me_03](https://user-images.githubusercontent.com/70240006/132084584-cdb03204-8926-4d4e-a7f3-5e565513a6d9.gif)<br>
+![gr290x322_w9x-me_03](https://user-images.githubusercontent.com/70240006/132084584-cdb03204-8926-4d4e-a7f3-5e565513a6d9.gif)
+<br>
 ![apple-90s-website](https://user-images.githubusercontent.com/70240006/131387727-67d1d7ef-22b1-4eb5-904b-91aef26668fe.gif)
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vhoda&show_icons=true&locale=en&layout=compact" alt="vhoda" /></p>

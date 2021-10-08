@@ -1,5 +1,5 @@
-<h1 align="center"> Hey! :-)</h1>
-<h4 align="center"> im 20yo, from chile, im making YTPMV's, Currently learning some languages and in the important proyect :-) </h4>
+<h1 align="center"> <em>Hey! :-)</h1>
+<h4 align="center"> <em> im 20yo, from chile, im making some stuffs.</h4>
 
 ![1 64jSmWQdZ0STcy6YcambTw](https://user-images.githubusercontent.com/70240006/136506885-4df8d210-db6a-43ab-8336-5f2e5aa70c0b.gif)
 

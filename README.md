@@ -1,7 +1,7 @@
-<h1 align="center"> Hey! I'm vhoda :-)</h1>
+<h1 align="center"> Hey! :-)</h1>
 <h4 align="center"> im 20yo, from chile, im making YTPMV's, Currently learning some languages and in the important proyect :-) </h4>
 
-![image_proxy php](https://user-images.githubusercontent.com/70240006/135139616-43101455-1166-4d95-a186-fb64bc7b9ba8.gif)
+![1 64jSmWQdZ0STcy6YcambTw](https://user-images.githubusercontent.com/70240006/136506885-4df8d210-db6a-43ab-8336-5f2e5aa70c0b.gif)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vhoda&show_icons=true&locale=en&layout=compact" alt="vhoda" /></p>

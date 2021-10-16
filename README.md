@@ -1,5 +1,4 @@
-<h1 align="center"> <em>Hey! :-)</h1>
-<h4 align="center"> <em> im 20yo, from chile, im making some stuffs.</h4>
+<h1 align="center"> <em>おはようダーリン～！</h1>
 
 ![original](https://user-images.githubusercontent.com/70240006/137575947-2fd0031b-cd3c-4786-9689-4168d870b10d.jpg)
 

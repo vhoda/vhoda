@@ -1,6 +1,7 @@
 <h1 align="center"> <em>おはようダーリン～！</h1>
 
-![original(2)](https://user-images.githubusercontent.com/70240006/144798388-35043b69-b846-468e-abaa-65710da17e4c.png)
+![original(23)](https://user-images.githubusercontent.com/70240006/149612640-235ccd7b-8f04-4055-a153-6a9ecdacb934.jpg)
+
 
 
 ![modarchive](https://user-images.githubusercontent.com/37962225/120224079-b5c84b80-c210-11eb-91b0-7c9d0f2ba1cd.gif) ![ieisevil](https://user-images.githubusercontent.com/37962225/120224104-c4aefe00-c210-11eb-880c-c3e55b8db34a.gif) ![image php](https://user-images.githubusercontent.com/70240006/130697079-c1c57585-e6e5-45b2-9f0e-1ed3bce64cc1.gif) ![openmpt-button-1](https://user-images.githubusercontent.com/37962225/120224166-e5775380-c210-11eb-901c-81dd324fa775.png)  ![firefoxblend](https://user-images.githubusercontent.com/70240006/131224189-93edcdf5-5466-4afb-a808-3a6c04ddd907.gif) ![amiga](https://user-images.githubusercontent.com/70240006/138148459-63addef9-7566-4422-8cbe-3ac850f0e5ad.gif) ![debian](https://user-images.githubusercontent.com/70240006/138148473-16297249-37ea-4cf8-95b4-816d79009cb0.gif) ![fb2k](https://user-images.githubusercontent.com/70240006/138148496-defdb939-0458-4fe1-bf10-70a67865734a.png)

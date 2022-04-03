@@ -1,6 +1,6 @@
-<h1 align="center"> <em>おはようダーリン～！</h1>
+<h1 align="center"><em>hey</h1>
 
-![original(23)](https://user-images.githubusercontent.com/70240006/149612640-235ccd7b-8f04-4055-a153-6a9ecdacb934.jpg)
+![original (1)](https://user-images.githubusercontent.com/70240006/161413406-ba0df8dc-55c6-4ac8-9730-acd57b22d297.gif)
 
 
 

@@ -1,6 +1,7 @@
 <h1 align="center"><em>hey</h1>
 
-![original (1)](https://user-images.githubusercontent.com/70240006/161413406-ba0df8dc-55c6-4ac8-9730-acd57b22d297.gif)
+![original](https://user-images.githubusercontent.com/70240006/167510959-f5b729c4-1a15-43df-8c1e-76aef55ca2ff.gif)
+
 
 
 

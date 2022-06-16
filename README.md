@@ -22,7 +22,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vhoda&show_icons=true&locale=en&layout=compact" alt="vhoda" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhoda)](https://github.com/vhoda/github-readme-stats)
 <br>
 
 
